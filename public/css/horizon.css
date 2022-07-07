@@ -1,0 +1,117 @@
+*{
+    font-family: 'Fredoka', sans-serif;
+}
+
+body{
+    background: linear-gradient(to right,#22526621,rgba(0, 0, 0, 0.315));
+}
+
+.navbar{
+    background: linear-gradient(to right,#22526621,rgba(0, 0, 0, 0.315));
+}
+
+.navbar-nav .nav-item{
+    color: rgb(37, 65, 59) !important;
+    font-weight: 700;
+}
+
+.navbar-nav img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.jumbotron{
+    background: url('../images/eugene-lim-w74T9SFYyHc1.0-unsplash.jpg');
+    height: 50vh;
+    background-position: center center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* border-radius: 0 !important; */
+}
+
+.thumbnail{
+    margin: 80px 0;
+}
+
+.cards{
+    margin-top: 20px;
+}
+
+.card-body{
+    background: linear-gradient(to right,#066f9b,rgb(0 0 0));
+}
+
+.card-body h5{
+    font-size: 18px;
+    color: orange;
+}
+
+.card-body p{
+    font-size: 14px;
+    color: white;
+}
+
+.row h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.one{
+    margin-right: 0px;
+    margin-left: 140px;
+    padding: 0;
+}
+
+.two{
+    margin-right: 0px;
+    margin-left: 60px;
+    padding: 0;
+
+}
+
+.three{
+    margin-right: 0px;
+    margin-left: -20px;
+    height: 413px;
+    padding: 0;
+
+}
+
+.four{
+    margin-right: 20px;
+    margin-left: -100px;
+    padding: 0;
+
+}
+
+.footer-text{
+    background: linear-gradient(to right,#066f9b,rgb(0 0 0));
+    color: white;
+}
+
+.whereabout{
+    margin: 2px;
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+.visit{
+    color: orange;
+    font-size: 16px;
+}
+
+.country{
+    color: yellowgreen;
+    padding-left: 5px;
+}
+
+.loc{
+    color: aliceblue;
+    margin-bottom: 0;
+}
+
+.loc2{
+    margin-top: 0;
+}
+
+
